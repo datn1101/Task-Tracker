@@ -63,3 +63,7 @@ taskForm.addEventListener('submit', handleSubmission);
 
 // Call the init function to initialize the table
 init();
+// Event listener for form submission
+taskForm.addEventListener('submit', handleSubmission);
+// Call the init function to set up the initial state of the app
+init();
